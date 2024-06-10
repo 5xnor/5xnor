@@ -1,4 +1,4 @@
-- 5xnor here! 
+- Welcome to my Github profile! 
 
 <!---
 5xnor/5xnor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
